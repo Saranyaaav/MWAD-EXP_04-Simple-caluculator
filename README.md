@@ -150,8 +150,8 @@ calc.html
 ```
 
 ## OUTPUT
-![Alt text](cal1.png)
-![Alt text](cal2.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab0149ee-c383-4b59-8140-464377646317" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cf304d7-eb80-4c29-87d2-cdd065b5a1de" />
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
